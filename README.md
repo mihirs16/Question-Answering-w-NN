@@ -1,4 +1,4 @@
-# Question Answering with Nearest Neighbour Search and Locality Sensitive Hashing
+# Question Answering with Nearest Neighbour Search
 
 ## Downloading and Unpacking Word Embeddings
 <b>Google News Vectors</b><br>
